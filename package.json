@@ -30,9 +30,6 @@
     "generate:addresses:ui": "dotenv -- turbo run generate:addresses:ui"
   },
   "devDependencies": {
-    "@ethena/eslint-config": "workspace:*",
-    "@ethena/prettier-config": "workspace:*",
-    "@ethena/typescript-config": "workspace:*",
     "@types/node": "18.0.0",
     "cross-port-killer": "^1.4.0",
     "dotenv-cli": "6.0.0",

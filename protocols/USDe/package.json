@@ -37,9 +37,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@ethena/eslint-config": "workspace:*",
-    "@ethena/prettier-config": "workspace:*",
-    "@ethena/typescript-config": "workspace:*",
     "cross-env": "7.0.0",
     "dotenv": "16.0.3",
     "eslint": "8.29.0",
